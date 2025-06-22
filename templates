@@ -1,0 +1,5 @@
+project/
+├── main.py
+├── requirements.txt
+└── templates/
+    └── home.html
